@@ -11,4 +11,4 @@ Example clinic management system written in java
 and if not present, it creates them and after a proper exit from the program, it overwrites them with the entries loaded as
  <em>ArrayLists</em>.</p>
  
- <p>The strings are hard-coded in Greek. Exit is available from the main menu only</p>
+ <p>The strings are hard-coded in Greek. Exit is available from the main menu only.</p>
