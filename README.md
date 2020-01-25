@@ -1,8 +1,8 @@
 # ClinicJava
 Example clinic management system written in java
 
-<p>The main class is in <em>Clinic0_1.java</em> . This project concerns an informational clinic with the capability to manage patients, doctors
- and specific measurements with the appropriate message for extreme values.</p>
+<p>The main class is in <em>Clinic0_1.java</em> . This project is a simple clinic informational system with the capability to manage patients, doctors
+ and specific measurements with the appropriate messages for extreme values.</p>
  
  <p>It utilizes the class <em>Person</em>, with a register number (AMKA), name and surname, and the extensions <em>Doctor.java</em>
  and <em>Patient.java</em> .
